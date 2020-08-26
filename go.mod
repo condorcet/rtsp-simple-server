@@ -1,4 +1,4 @@
-module rtsp-simple-server
+module github.com/condorcet/rtsp-simple-server
 
 go 1.12
 
